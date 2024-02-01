@@ -1,0 +1,46 @@
+Quartus Prime Archive log --	C:/Users/yasir/Desktop/organization project 3/project3.qarlog
+
+Archive:	C:/Users/yasir/Desktop/organization project 3/project3.qar
+Date:		Fri Jan 19 12:20:22 2024
+Quartus Prime		20.1.1 Build 720 11/11/2020 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/yasir/Desktop/organization project 3/A_less_B.v
+C:/Users/yasir/Desktop/organization project 3/adder.v
+C:/Users/yasir/Desktop/organization project 3/alu.v
+C:/Users/yasir/Desktop/organization project 3/alu_1_bit.v
+C:/Users/yasir/Desktop/organization project 3/alu_control.v
+C:/Users/yasir/Desktop/organization project 3/and_31bit.v
+C:/Users/yasir/Desktop/organization project 3/and_32bit.v
+C:/Users/yasir/Desktop/organization project 3/cla_4bit.v
+C:/Users/yasir/Desktop/organization project 3/control_unit.v
+C:/Users/yasir/Desktop/organization project 3/extend_to_32.v
+C:/Users/yasir/Desktop/organization project 3/full_adder.v
+C:/Users/yasir/Desktop/organization project 3/full_adder_4bit.v
+C:/Users/yasir/Desktop/organization project 3/generate_propagate_4bit.v
+C:/Users/yasir/Desktop/organization project 3/instruction_block.v
+C:/Users/yasir/Desktop/organization project 3/instructions.mem
+C:/Users/yasir/Desktop/organization project 3/memory.mem
+C:/Users/yasir/Desktop/organization project 3/memory_block.v
+C:/Users/yasir/Desktop/organization project 3/memory_operations.v
+C:/Users/yasir/Desktop/organization project 3/mips.v
+C:/Users/yasir/Desktop/organization project 3/msb_alu_1_bit.v
+C:/Users/yasir/Desktop/organization project 3/msb_cla_4bit.v
+C:/Users/yasir/Desktop/organization project 3/mux_2x1_32bit.v
+C:/Users/yasir/Desktop/organization project 3/mux_2x1_5bit.v
+C:/Users/yasir/Desktop/organization project 3/mux_8x1_1bit.v
+C:/Users/yasir/Desktop/organization project 3/mux_8x1_32bit.v
+C:/Users/yasir/Desktop/organization project 3/or_32bit.v
+C:/Users/yasir/Desktop/organization project 3/project3.qpf
+C:/Users/yasir/Desktop/organization project 3/project3.qsf
+C:/Users/yasir/Desktop/organization project 3/register_block.v
+C:/Users/yasir/Desktop/organization project 3/registers.mem
+C:/Users/yasir/Desktop/organization project 3/shift_left_2.v
+C:/Users/yasir/Desktop/organization project 3/sign_extend.v
+C:/Users/yasir/Desktop/organization project 3/testbench.v
+C:/Users/yasir/Desktop/organization project 3/xor_32bit.v
+c:/intelfpga_lite/20.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 35 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

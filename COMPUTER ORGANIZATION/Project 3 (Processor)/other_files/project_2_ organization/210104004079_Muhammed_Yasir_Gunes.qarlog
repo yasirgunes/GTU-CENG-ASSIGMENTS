@@ -1,0 +1,37 @@
+Quartus Prime Archive log --	C:/Users/yasir/Desktop/project_2_ organization/210104004079_Muhammed_Yasir_Gunes.qarlog
+
+Archive:	C:/Users/yasir/Desktop/project_2_ organization/210104004079_Muhammed_Yasir_Gunes.qar
+Date:		Mon Dec 11 04:07:27 2023
+Quartus Prime		20.1.1 Build 720 11/11/2020 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/yasir/Desktop/project_2_ organization/project/ALU_32bit.qpf
+C:/Users/yasir/Desktop/project_2_ organization/project/ALU_32bit.qsf
+C:/Users/yasir/Desktop/project_2_ organization/project/A_less_B.v
+C:/Users/yasir/Desktop/project_2_ organization/project/adder.v
+C:/Users/yasir/Desktop/project_2_ organization/project/alu.v
+C:/Users/yasir/Desktop/project_2_ organization/project/alu_1_bit.v
+C:/Users/yasir/Desktop/project_2_ organization/project/and_31bit.v
+C:/Users/yasir/Desktop/project_2_ organization/project/and_32bit.v
+C:/Users/yasir/Desktop/project_2_ organization/project/cla_4bit.v
+C:/Users/yasir/Desktop/project_2_ organization/project/deneme.v
+C:/Users/yasir/Desktop/project_2_ organization/project/extend_to_32.v
+C:/Users/yasir/Desktop/project_2_ organization/project/full_adder.v
+C:/Users/yasir/Desktop/project_2_ organization/project/full_adder_4bit.v
+C:/Users/yasir/Desktop/project_2_ organization/project/generate_propagate_4bit.v
+C:/Users/yasir/Desktop/project_2_ organization/project/mod.v
+C:/Users/yasir/Desktop/project_2_ organization/project/mod_cu.v
+C:/Users/yasir/Desktop/project_2_ organization/project/mod_dp.v
+C:/Users/yasir/Desktop/project_2_ organization/project/msb_alu_1_bit.v
+C:/Users/yasir/Desktop/project_2_ organization/project/msb_cla_4bit.v
+C:/Users/yasir/Desktop/project_2_ organization/project/mux_8x1_1bit.v
+C:/Users/yasir/Desktop/project_2_ organization/project/mux_8x1_32bit.v
+C:/Users/yasir/Desktop/project_2_ organization/project/my_testbench.v
+C:/Users/yasir/Desktop/project_2_ organization/project/nor_32bit.v
+C:/Users/yasir/Desktop/project_2_ organization/project/or_32bit.v
+C:/Users/yasir/Desktop/project_2_ organization/project/xor_32bit.v
+c:/intelfpga_lite/20.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 26 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

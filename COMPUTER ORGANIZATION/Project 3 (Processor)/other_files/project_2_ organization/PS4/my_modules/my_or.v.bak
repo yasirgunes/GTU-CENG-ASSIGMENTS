@@ -1,0 +1,5 @@
+// my_or 
+
+module my_or (output result, input a, b);
+	assign result = a | b;
+endmodule

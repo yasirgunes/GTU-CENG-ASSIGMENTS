@@ -1,0 +1,14 @@
+module mux2x1(output [3:0] result, input [3:0] a, input [3:0] b, input sel);
+
+
+
+
+
+
+
+
+
+
+
+
+endmodule;

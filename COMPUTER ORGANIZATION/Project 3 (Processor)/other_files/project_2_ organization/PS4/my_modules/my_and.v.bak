@@ -1,0 +1,5 @@
+// my_and
+
+module my_and(output result, input a, b);
+	assign result = a & b;
+endmodule

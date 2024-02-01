@@ -1,0 +1,611 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/simulation/modelsim
+vadder
+Z1 !s110 1706254146
+!i10b 1
+!s100 JXb2B[4YXoVE5m4HXFf]J2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I[fhdNll7j0ZYzhe>7X>KQ3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1705231636
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/adder.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/adder.v
+!i122 13
+L0 1 137
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1706254146.000000
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/adder.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work {+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3}
+Z8 tCvgOpt 0
+valu
+R1
+!i10b 1
+!s100 o8h2geNez9o3YZB0]X=ma0
+R2
+I2omUkJBmSH`YKGNo^ANjM2
+R3
+R0
+w1705659091
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/alu.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/alu.v
+!i122 16
+Z9 L0 1 40
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/alu.v|
+!i113 1
+R6
+R7
+R8
+valu_1_bit
+R1
+!i10b 1
+!s100 j[BCF=jeCDmH7ZEP>Kh;M3
+R2
+IG213<2dR5X8zYPH35[Ynn3
+R3
+R0
+w1702229514
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/alu_1_bit.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/alu_1_bit.v
+!i122 12
+Z10 L0 1 55
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/alu_1_bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/alu_1_bit.v|
+!i113 1
+R6
+R7
+R8
+valu_control
+Z11 !s110 1706254147
+!i10b 1
+!s100 SoTaiVOPC]9B6;0I<S<WW1
+R2
+I0zD]0;I@IX42VAeFkn2T]0
+R3
+R0
+w1705449949
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/alu_control.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/alu_control.v
+!i122 17
+L0 1 79
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/alu_control.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/alu_control.v|
+!i113 1
+R6
+R7
+R8
+vand_31bit
+R1
+!i10b 1
+!s100 `[Lo^f@]]3YAWZW7Pj;2O1
+R2
+I3VF0E8EoP=6cz@bEG88R@2
+R3
+R0
+w1702213698
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/and_31bit.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/and_31bit.v
+!i122 11
+R9
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/and_31bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/and_31bit.v|
+!i113 1
+R6
+R7
+R8
+vand_32bit
+R1
+!i10b 1
+!s100 APz8N?=`gdfZ792^O8QQB1
+R2
+I2I1Ao?b;S:TABd>2ljC310
+R3
+R0
+w1702208690
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/and_32bit.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/and_32bit.v
+!i122 10
+Z12 L0 1 41
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/and_32bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/and_32bit.v|
+!i113 1
+R6
+R7
+R8
+vcla_4bit
+Z13 !s110 1706254145
+!i10b 1
+!s100 ;TMdH2W?nbTA>`zXBjj=b1
+R2
+I[kL4HRJWa5>N;g_@94T3A0
+R3
+R0
+w1702230158
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/cla_4bit.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/cla_4bit.v
+!i122 9
+L0 1 112
+R4
+r1
+!s85 0
+31
+Z14 !s108 1706254145.000000
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/cla_4bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/cla_4bit.v|
+!i113 1
+R6
+R7
+R8
+vcontrol_unit
+R1
+!i10b 1
+!s100 N?a@[GRRzSoEYnI:PGc0S3
+R2
+IZ9eTgQWhAe9S?hBY30j=R1
+R3
+R0
+w1705657891
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/control_unit.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/control_unit.v
+!i122 15
+L0 1 113
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/control_unit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/control_unit.v|
+!i113 1
+R6
+R7
+R8
+vextend_to_32
+R13
+!i10b 1
+!s100 MYjLT41:Lbh<B;37PoifL1
+R2
+Ilz[P>O7adW;`m2J`X6MG72
+R3
+R0
+w1705259920
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/extend_to_32.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/extend_to_32.v
+!i122 8
+L0 1 36
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/extend_to_32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/extend_to_32.v|
+!i113 1
+R6
+R7
+R8
+vfull_adder
+R13
+!i10b 1
+!s100 SmE@Xd`2R9<_eggmga[GW1
+R2
+IkXieBlmzkgA2EO4R:COB<1
+R3
+R0
+w1702054933
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/full_adder.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/full_adder.v
+!i122 7
+L0 1 12
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/full_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/full_adder.v|
+!i113 1
+R6
+R7
+R8
+vgenerate_propagate_4bit
+R13
+!i10b 1
+!s100 95@=j@GEUmHhW1FAKUTLA0
+R2
+IN@NAVIRi52AozJIX^Sg4Y2
+R3
+R0
+w1702143267
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/generate_propagate_4bit.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/generate_propagate_4bit.v
+!i122 6
+L0 1 39
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/generate_propagate_4bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/generate_propagate_4bit.v|
+!i113 1
+R6
+R7
+R8
+vinstruction_block
+R11
+!i10b 1
+!s100 0XlGd]H6Dc;e<05KbL4oU3
+R2
+IHD`>FEKCNiFJNl8Li:AR:1
+R3
+R0
+w1705424157
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/instruction_block.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/instruction_block.v
+!i122 22
+L0 1 32
+R4
+r1
+!s85 0
+31
+Z15 !s108 1706254147.000000
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/instruction_block.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/instruction_block.v|
+!i113 1
+R6
+R7
+R8
+vmemory_block
+R11
+!i10b 1
+!s100 Mjng8<VG83BlfFc9<>4CU1
+R2
+I^Zo^=3e=o7efEfj[AUmF`0
+R3
+R0
+w1705660085
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/memory_block.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/memory_block.v
+!i122 23
+R10
+R4
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/memory_block.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/memory_block.v|
+!i113 1
+R6
+R7
+R8
+vmips
+R1
+!i10b 1
+!s100 ?jnz0ndMKzM?dIkm^>63K0
+R2
+I]NN]d5gFe1TQ;3UVGG<_Y3
+R3
+R0
+w1705660079
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/mips.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/mips.v
+!i122 14
+L0 1 238
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/mips.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/mips.v|
+!i113 1
+R6
+R7
+R8
+vmsb_alu_1_bit
+R13
+!i10b 1
+!s100 <1IaVdfja[0O[PD57;FiJ2
+R2
+IN<5n[WERT]UNV5BM5R6fN0
+R3
+R0
+w1702229521
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/msb_alu_1_bit.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/msb_alu_1_bit.v
+!i122 5
+L0 1 62
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/msb_alu_1_bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/msb_alu_1_bit.v|
+!i113 1
+R6
+R7
+R8
+vmsb_cla_4bit
+R13
+!i10b 1
+!s100 <?>GU55;dnF?nk];LOG:Q1
+R2
+IYgAYcGBALT3PELZQ7UkMc0
+R3
+R0
+w1702228746
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/msb_cla_4bit.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/msb_cla_4bit.v
+!i122 4
+L0 1 116
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/msb_cla_4bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/msb_cla_4bit.v|
+!i113 1
+R6
+R7
+R8
+vmux_2x1_32bit
+R11
+!i10b 1
+!s100 @2?0B[cZliT1<[WfKZCho2
+R2
+IZ<d`d?`=odMDVbQ^6n=@W1
+R3
+R0
+w1705259800
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/mux_2x1_32bit.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/mux_2x1_32bit.v
+!i122 20
+L0 1 21
+R4
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/mux_2x1_32bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/mux_2x1_32bit.v|
+!i113 1
+R6
+R7
+R8
+vmux_2x1_5bit
+R11
+!i10b 1
+!s100 Tm7BLUSf=TbobP?lIbh;N1
+R2
+In]SNh1HzBShJ7[nRf6jDW3
+R3
+R0
+w1705262449
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/mux_2x1_5bit.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/mux_2x1_5bit.v
+!i122 19
+L0 1 31
+R4
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/mux_2x1_5bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/mux_2x1_5bit.v|
+!i113 1
+R6
+R7
+R8
+vmux_8x1_1bit
+R13
+!i10b 1
+!s100 HaH5Yel0GWRkZ4IVaK<[N1
+R2
+IT<>V_Ak:P]g8BYhEnIY1Q3
+R3
+R0
+w1705228462
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/mux_8x1_1bit.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/mux_8x1_1bit.v
+!i122 3
+L0 1 58
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/mux_8x1_1bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/mux_8x1_1bit.v|
+!i113 1
+R6
+R7
+R8
+vmux_8x1_32bit
+R13
+!i10b 1
+!s100 Gk;B_@=;@fZ3o4FaKjkTQ2
+R2
+I5]GmBZV0=@<_XieaV9WRe0
+R3
+R0
+w1702239055
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/mux_8x1_32bit.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/mux_8x1_32bit.v
+!i122 2
+L0 1 81
+R4
+r1
+!s85 0
+31
+Z16 !s108 1706254144.000000
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/mux_8x1_32bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/mux_8x1_32bit.v|
+!i113 1
+R6
+R7
+R8
+vor_32bit
+Z17 !s110 1706254144
+!i10b 1
+!s100 ccdT19lg6:Ucl07=]78hG3
+R2
+I1GVFF32PT9l^M@hidnWcA2
+R3
+R0
+w1702207789
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/or_32bit.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/or_32bit.v
+!i122 1
+R12
+R4
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/or_32bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/or_32bit.v|
+!i113 1
+R6
+R7
+R8
+vregister_block
+R11
+!i10b 1
+!s100 Jh0HAl4l]]R6aKUEUGbS61
+R2
+ILd>B@4d?11LjNTi37<DOn1
+R3
+R0
+w1705494477
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/register_block.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/register_block.v
+!i122 21
+L0 1 34
+R4
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/register_block.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/register_block.v|
+!i113 1
+R6
+R7
+R8
+vsign_extend
+R11
+!i10b 1
+!s100 Mdei1]k_EC:TMHF[geEaY1
+R2
+I7naQa[F:e=nFo65l4TM=_1
+R3
+R0
+w1705260728
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/sign_extend.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/sign_extend.v
+!i122 18
+R9
+R4
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/sign_extend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/sign_extend.v|
+!i113 1
+R6
+R7
+R8
+vtestbench
+R11
+!i10b 1
+!s100 6D_mT9CcT69<O_6BYbQHf2
+R2
+I;=K8mLafMF?0]>DmDd07z2
+R3
+R0
+w1706219835
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/testbench.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/testbench.v
+!i122 24
+L0 1 17
+R4
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/testbench.v|
+!i113 1
+R6
+R7
+R8
+vxor_32bit
+R17
+!i10b 1
+!s100 fZ9``DjDcI]X4fe?lOBBb2
+R2
+Ie]T0`i4iI:?WYhQ7oUjM10
+R3
+R0
+w1702147843
+8C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/xor_32bit.v
+FC:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/xor_32bit.v
+!i122 0
+R9
+R4
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/xor_32bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3|C:/Users/yasir/Desktop/homeworks/computer organization/organization project 3/xor_32bit.v|
+!i113 1
+R6
+R7
+R8

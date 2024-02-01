@@ -1,0 +1,7 @@
+module alu(
+o output reg [31:0] alu_result,
+o output reg zero_bit,
+o input [31:0] alu_src1,
+o input [31:0] alu_src2,
+o input [2:0] alu_ctr
+);

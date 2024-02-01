@@ -1,0 +1,34 @@
+module mod_cu (
+    input clk,
+    input reset,
+    input [31:0] A,
+    input [31:0] B,
+    output [31:0] Result,
+    output reg [1:0] state
+);
+
+    always @(posedge clk or posedge reset) begin
+        if (reset) begin
+            state <= 2'b00;
+        end else begin
+            case (state)
+                2'b00: begin // s1: Temp = A
+                    state <= 2'b01;
+                end
+                2'b01: begin // s2: Temp = Temp - B
+                    if (Temp >= B) begin
+                        state <= 2'b01;
+                    end else begin
+                        state <= 2'b10;
+                    end
+                end
+                2'b10: begin // s3: Result = Temp
+                    state <= 2'b00;
+                end
+            endcase
+        end
+    end
+
+    assign Result = Temp;
+
+endmodule

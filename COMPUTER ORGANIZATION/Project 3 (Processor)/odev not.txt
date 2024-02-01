@@ -1,0 +1,9 @@
+jal jump opcode[0]
+
+mux1 mux2 mux3 yaparken bir tanesi mux olarak kalmış onu düzelt.
+
+data memory rt değil.
+
+jal mux'ında pc = pc+1 olması yeterli.
+
+concatanete'de sağ tarafda 00 olmayacak. [31:26]

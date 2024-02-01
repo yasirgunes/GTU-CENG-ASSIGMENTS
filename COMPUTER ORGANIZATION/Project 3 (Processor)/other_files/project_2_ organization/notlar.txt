@@ -1,0 +1,59 @@
+Mod hariç structural verilog kullan.
+
+1 bit ALU yap ondan 4bit ALU yap.
+4 bit için bir tane 4bit CLA yap.
+8 tanesini yan yana koy CLA'ların. => 1.katman
+Altta da bunların çıktılarını işleyen Büyük Tek parça CLA bloğu yap. => 2.katman
+
+ALU'nun sonuçları 32 bit olmalı Lessthan de 32bit olmalı.
+
+You can ignore overflow, zero bit etc. Just make sure you can return the 32 bits result as the output.
+
+The inputs (A and B) might be negative. Make sure your modules work for negative numbers as well except for MOD (That FSM is for positive numbers only).
+
+
+inputları ve outpuları binary olarak verebilirsin simulationda.
+
+32bitlik 8x1 mux.
+
+toplama çıkarma aynı adder modülde yapılabilir.
+
+Mod modülünü yazarken FSM kullanıyoruz. Sequential ve behavioral design kullanıyoruz.
+Control unit ve datapath ayrı olacakmış.
+
+
+module fsm(input wire clk, input wire reset);
+parameter s0 = 0; // to define constants we use parameters.
+parameter s1 = 1;
+parameter s2 = 2;
+parameter s3 = 3;
+
+reg [1:0] state;
+reg [1:0] next_state;
+
+// birden çok always bloğu kullanmanın amacı karmaşıklığı azaltmak yoksa hepsini aynı always bloğunun altında da yazabilirdik.
+
+
+always @(posedge clk) begin // her clk posedge olduğunda 				    // içindekileri çalıştır.
+if(reset)
+  state <= 0;
+else
+  state <= next_state;
+end
+
+// burada next_state'i hesaplayacağız.
+always @(posedge clk) begin // her clk posedge olduğunda 				    // içindekileri çalıştır.
+if(reset)
+  next_state <= 0;
+else
+  case(state)
+    s0: next_state <= s1;
+    s1: next_state <= s2;
+    s2: next_state <= s3;
+    s3: next_state <= s3;
+  endcase
+
+
+end
+
+endmodule

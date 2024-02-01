@@ -1,0 +1,21 @@
+module full_adder(input a, b, cin, s, cout);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+endmodule

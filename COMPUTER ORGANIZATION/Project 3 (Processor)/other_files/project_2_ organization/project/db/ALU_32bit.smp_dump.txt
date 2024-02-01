@@ -1,0 +1,6 @@
+
+State Machine - |alu|mod:mod_op|mod_cu:cu|curr_state
+Name curr_state.ADD curr_state.SMALL curr_state.COMP 
+curr_state.ADD 0 0 0 
+curr_state.COMP 1 0 1 
+curr_state.SMALL 1 1 0 

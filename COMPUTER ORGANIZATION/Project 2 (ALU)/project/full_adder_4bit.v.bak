@@ -1,0 +1,11 @@
+module full_adder_4bit(input a[3:0], b[3:0], cin, output s[3:0], cout);
+
+
+
+
+
+
+
+
+
+endmodule

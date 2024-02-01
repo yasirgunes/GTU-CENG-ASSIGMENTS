@@ -1,0 +1,4 @@
+module instruction_block(
+	output reg [31:0] instruction,
+	
+)

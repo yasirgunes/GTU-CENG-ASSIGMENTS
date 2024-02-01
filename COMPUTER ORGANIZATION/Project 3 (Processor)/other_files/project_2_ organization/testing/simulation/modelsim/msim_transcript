@@ -1,0 +1,48 @@
+# Reading pref.tcl
+# do Project_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/yasir/Desktop/project_2_\ organization/testing {C:/Users/yasir/Desktop/project_2_ organization/testing/mux2x1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:21:32 on Dec 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/yasir/Desktop/project_2_ organization/testing" C:/Users/yasir/Desktop/project_2_ organization/testing/mux2x1.v 
+# -- Compiling module mux2x1
+# 
+# Top level modules:
+# 	mux2x1
+# End time: 13:21:32 on Dec 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/yasir/Desktop/project_2_\ organization/testing/../PS3/my_modules {C:/Users/yasir/Desktop/project_2_ organization/testing/../PS3/my_modules/my_testbench.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:21:32 on Dec 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/yasir/Desktop/project_2_ organization/testing/../PS3/my_modules" C:/Users/yasir/Desktop/project_2_ organization/testing/../PS3/my_modules/my_testbench.v 
+# -- Compiling module my_testbench
+# 
+# Top level modules:
+# 	my_testbench
+# End time: 13:21:32 on Dec 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  my_testbench
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs=""+acc"" my_testbench 
+# Start time: 13:21:32 on Dec 08,2023
+# Loading work.my_testbench
+# Loading work.mux2x1
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# End time: 13:22:22 on Dec 08,2023, Elapsed time: 0:00:50
+# Errors: 0, Warnings: 0

@@ -1,0 +1,23 @@
+|mux2x1
+result[0] << or1.DB_MAX_OUTPUT_PORT_TYPE
+result[1] << or2.DB_MAX_OUTPUT_PORT_TYPE
+result[2] << or3.DB_MAX_OUTPUT_PORT_TYPE
+result[3] << or4.DB_MAX_OUTPUT_PORT_TYPE
+a[0] => and1.IN0
+a[1] => and2.IN0
+a[2] => and3.IN0
+a[3] => and4.IN0
+b[0] => and5.IN0
+b[1] => and6.IN0
+b[2] => and7.IN0
+b[3] => and8.IN0
+sel => and5.IN1
+sel => and6.IN1
+sel => and7.IN1
+sel => and8.IN1
+sel => and1.IN1
+sel => and2.IN1
+sel => and3.IN1
+sel => and4.IN1
+
+

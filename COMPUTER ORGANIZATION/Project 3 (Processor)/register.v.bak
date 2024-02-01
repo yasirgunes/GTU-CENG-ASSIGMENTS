@@ -1,0 +1,18 @@
+module register (
+o output reg [31:0] read_data1, 
+o output reg [31:0] read_data2, 
+o input byteOperations, (This is an optional signal for lb and sb operations)
+o input [31:0] write_data, 
+o input [4:0] read_reg1,
+o input [4:0] read_reg2, (These were assigned as [5:0] before, by mistake.
+o input [4:0] write_reg, They should be [4:0] since register addresses are 5 bits long, not 6)
+o input regWrite);
+
+
+
+
+
+
+
+
+endmodule

@@ -1,0 +1,24 @@
+module alu_1_bit(
+    output result,
+    output cout,
+    input a,
+    input b,
+    input less, // a less than b if less=1
+    input cin,
+    input [2:0] alu_op;
+);
+
+
+
+xor xor1       (b_xor, b, alu_op[2]); // if aluop[2] == 1 => b' else b
+and and1       (a_and_b, a, b_xor); // aluop[1:0] = 00
+or or1         (a_or_b, a, b_xor);  // aluop[1:0] = 01
+full_adder fa1 (add_a_b, cout, a, b_xor, cin);
+
+
+
+
+
+
+
+endmodule
